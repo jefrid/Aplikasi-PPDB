@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Primary Colors */
+  --color-primary: #1E88E5; /* Biru */
+  --color-secondary: #2E7D32; /* Hijau */
+  
+  /* Shades */
+  --color-primary-light: #64B5F6;
+  --color-primary-dark: #1565C0;
+  --color-secondary-light: #4CAF50;
+  --color-secondary-dark: #1B5E20;
+}
